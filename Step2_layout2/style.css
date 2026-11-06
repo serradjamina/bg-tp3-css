@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-#container {
+.container, #container {
     background-color: red;
     width: 90%;
     margin: 0 auto;
